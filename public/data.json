@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "category": "Breakfast",
+    "name": "Bagel and cream cheese",
+    "img": "https://i.ibb.co/Z89S9QP/breakfast2.png",
+    "description": "The International English Language Testing System, or IELTS, is an international standardized test of English language proficiency for non-native English language speakers. It is jointly managed by the British Council, IDP: IELTS Australia and Cambridge Assessment English, and was established in 1989.",
+    "price": 6.99
+  },
+  {
+    "id": 2,
+    "category": "Breakfast",
+    "name": "Breakfast sandwitch",
+    "img": "https://i.ibb.co/xqv4jZm/breakfast1.png",
+    "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+    "price": 9.99
+  },
+  {
+    "id": 3,
+    "category": "Breakfast",
+    "name": "Baked Chiken",
+    "img": "https://i.ibb.co/wzf7m7q/breakfast5.png",
+    "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+    "price": 10.99
+  },
+  {
+    "id": 4,
+    "category": "Breakfast",
+    "name": "Eggs Benedicct",
+    "img": "https://i.ibb.co/bKPPMm8/breakfast6.png",
+    "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+    "price": 8.99
+  },{
+  "id": 5,
+  "category": "Breakfast",
+  "name": "Toast Croissant Fried egg",
+  "img": "https://i.ibb.co/G7P85nH/breakfast3.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 19.99
+},{
+  "id": 6,
+  "category": "Breakfast",
+  "name": "Full Breakfast Fried Egg Toast Bruch",
+  "img": "https://i.ibb.co/zX7kx5H/breakfast4.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 3.99
+},{
+  "id": 7,
+  "category": "Lunch",
+  "name": "Healthy Meal plan",
+  "img": "https://i.ibb.co/kG4rm9b/lunch1.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 23.99
+},
+  {
+    "id": 8,
+    "category": "Lunch",
+    "name": "Fried Chicken Bento",
+    "img": "https://i.ibb.co/JCstchH/lunch2.png",
+    "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+    "price": 9.99
+  },{
+  "id": 9,
+  "category": "Lunch",
+  "name": "Tarragon-Rubbed-Salmon",
+  "img": "https://i.ibb.co/J2TGv5b/lunch3.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 6.99
+},
+  {
+    "id": 10,
+    "category": "Lunch",
+    "name": "Indian Lunch",
+    "img": "https://i.ibb.co/q10SGvc/lunch4.png",
+    "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+    "price": 8.99
+  },{
+  "id": 11,
+  "category": "Lunch",
+  "name": "Beef Steak",
+  "img": "https://i.ibb.co/rMzmvsV/dinner6.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 15.99
+},{
+  "id": 12,
+  "category": "Lunch",
+  "name": "Honey Soy-Glazed Salmon with Peppers",
+  "img": "https://i.ibb.co/GRZ26t2/lunch5.png ",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 7.99
+},
+  {
+    "id": 122,
+    "category": "Lunch",
+    "name": "Honey Soy-Glazed Salmon with Peppers",
+    "img": "https://i.ibb.co/GRZ26t2/lunch5.png ",
+    "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+    "price": 7.99
+  }
+,
+  {
+    "id": 133,
+    "category": "Lunch",
+    "name": "Honey Soy-Glazed Salmon with Peppers",
+    "img": "https://i.ibb.co/GRZ26t2/lunch5.png ",
+    "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+    "price": 7.99
+  },
+  {
+    "id": 13,
+    "category": "Dinner",
+    "name": "Salmon with Grapefruit and Lentil Salad",
+    "img": "https://i.ibb.co/TTDVQ9k/dinner1.png",
+    "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+    "price": 9.99
+  },{
+  "id": 14,
+  "category": "Dinner",
+  "name": "Lemony Salmon Piccata",
+  "img": "https://i.ibb.co/BV5C7Th/dinner2.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 10.99
+},{
+  "id": 14,
+  "category": "Dinner",
+  "name": "Pork Tenderloin With Quinoa Pilaf",
+  "img": "https://i.ibb.co/wRmxPYd/dinner3.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 12.99
+},{
+  "id": 14,
+  "category": "Dinner",
+  "name": "French fries with cheese",
+  "img": "https://i.ibb.co/Fmc7ZTY/dinner4.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 8.99
+},{
+  "id": 15,
+  "category": "Dinner",
+  "name": "Gaelic Butter Baked Salmon",
+  "img": "https://i.ibb.co/bvJwpqJ/dinner5.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 6.99
+},{
+  "id": 16,
+  "category": "Dinner",
+  "name": "Baked Chiken",
+  "img": "https://i.ibb.co/rMzmvsV/dinner6.png",
+  "description": "The Graduate Record Examinations is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada and few in other countries. The GRE is owned and administered by Educational Testing Service",
+  "price": 23.99
+}
+]

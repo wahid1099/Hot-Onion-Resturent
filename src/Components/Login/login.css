@@ -1,0 +1,16 @@
+
+body,tml{
+    height: 100%;
+    margin: 0 !important;
+}
+.login{
+    background-image: url("bannerbackground.png");
+
+    /* Full height */
+    height: 600px !important;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+
+    background-size: contain;
+}

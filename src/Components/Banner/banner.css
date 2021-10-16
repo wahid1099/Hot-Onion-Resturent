@@ -1,0 +1,41 @@
+.banner{
+    background-image: url("bannerbackground.png");
+    background-size: cover;
+    height: 408px;
+
+}
+.seacrbox{
+   text-align: center;
+   padding-top: 200px !important;
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    position:relative;
+
+
+
+}
+
+
+
+
+/* Style the form icons */
+#icon {
+    position:absolute;
+    bottom:2px;
+    right:5px;
+    width:24px;
+    height:24px;
+
+}
+
+/* Style the input fields */
+.input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+
+
+/* Set a style for the submit button */
