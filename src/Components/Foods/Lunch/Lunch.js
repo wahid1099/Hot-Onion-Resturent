@@ -9,9 +9,9 @@ const Lunch = (props) => {
         <div>
 
             <Col>
-                <Link   to={`/${id}`}>
+                <Link   to={`/${id}`} className="text-decoration-none">
 
-                <Card className="border-0 fooditemcard">
+                <Card className="border-0 fooditemcard ">
                     <Card.Img variant="top" src={img} className="img-fluid w-50 mx-auto" />
                     <Card.Body>
                         <Card.Title>{name}</Card.Title>

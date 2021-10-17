@@ -7,13 +7,14 @@ const Banner = () => {
     return (
         <div className="banner">
 
-            <div className="seacrbox input-container">
-
-
-                    <input className="input-field" type="text" placeholder="Search Food" />
-                    <BsSearch id="icon"/>
-
+            <div className="d-flex flex-column justify-content-center pt-5" >
+                <h1>Best food waiting for your belly</h1>
+                <div >
+                    <input className="input-field" placeholder="Search food item" type="text" />
+                    <button className="search-btn">Search</button>
+                </div>
             </div>
+
         </div>
     );
 };

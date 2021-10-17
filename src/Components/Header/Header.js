@@ -20,7 +20,7 @@ const Header = () => {
                     <Navbar.Collapse id="responsive-navbar-nav">
 
                         <Nav className="ms-auto">
-                            <Nav.Link href="#deets" className="text-dark"><FaCartPlus/></Nav.Link>
+                            <Nav.Link href="#deets" className="text-dark" as={Link} to="/cart" ><FaCartPlus/></Nav.Link>
                             <Nav.Link className="text-dark" href="#memes" as={Link} to="/login">
                                LogIn
                             </Nav.Link>

@@ -1,0 +1,10 @@
+.cartbtn{
+    background-color: #ef0e0e;
+    color: white !important;
+    padding: 6px 29px !important;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 18px;
+    text-align: center;
+    width: 150px;
+}

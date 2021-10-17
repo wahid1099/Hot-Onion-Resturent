@@ -7,6 +7,7 @@ import Register from "./Components/Register/Register";
 import Login from "./Components/Login/Login";
 import AuthProvider from "./Context/AuthProvider";
 import Fooddetails from "./Components/Foods/FoodDetails/Fooddetails";
+import Cart from "./Components/Cart/Cart";
 
 function App() {
   return (
@@ -27,9 +28,14 @@ function App() {
                    <Route path="/login">
                        <Login></Login>
                    </Route>
+                   <Route path="/cart">
+                       <Cart></Cart>
+
+                   </Route>
                      <Route path="/:foodid">
                       <Fooddetails></Fooddetails>
                      </Route>
+
                </Switch>
            </BrowserRouter>
        </AuthProvider>
